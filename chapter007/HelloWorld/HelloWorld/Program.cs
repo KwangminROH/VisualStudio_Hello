@@ -15,6 +15,7 @@ namespace HelloWorld
             Console.WriteLine("hotfix : 2nd Hello World");
             Console.WriteLine("master : 2nd Hello World");
             Console.WriteLine("Add in Github");
+            Console.WriteLine("Github : make conflict");
             Console.WriteLine("Local : make conflict");
         }
     }

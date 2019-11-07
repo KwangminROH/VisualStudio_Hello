@@ -17,6 +17,7 @@ namespace HelloWorld
             Console.WriteLine("Add in Github");
             Console.WriteLine("Github : make conflict");
             Console.WriteLine("Local : make conflict");
+            Console.WriteLine("Local 2nd try");
         }
     }
 }
